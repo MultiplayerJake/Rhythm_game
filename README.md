@@ -1,4 +1,4 @@
-# Rhythm Fest
+# Rhythm game
 
 A 4-key neon rhythm game built with **Python + pygame**, styled after *Fortnite Festival*.
 Hit falling notes on a centered note highway, charge the **boost meter** for double
